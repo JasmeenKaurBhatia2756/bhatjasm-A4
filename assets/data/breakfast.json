@@ -1,0 +1,9 @@
+{
+    "breakfast": 
+      [
+          {"food": "Peach Parfait","price": "$7", "calories": "380"},
+          {"food": "Waffle Sundae","price": "$9", "calories":"409"},
+          {"food": "Lemon Blueberry Overnight Quinoa","price": "$12", "calories":"356"}
+          
+    ]
+  }

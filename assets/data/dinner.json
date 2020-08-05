@@ -1,0 +1,9 @@
+{
+    "dinner": 
+      [
+          {"food": "Creamy Tuscan Chicken","price": "$13", "calories": "380"},
+          {"food": "Tex-Mex Meatballs","price": "$17", "calories":"418"},
+          {"food": "Rainbow Stir-Fry","price": "$14", "calories":"412"}
+          
+    ]
+  }
